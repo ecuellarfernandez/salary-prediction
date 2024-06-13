@@ -1,4 +1,3 @@
-# salary-prediction
 # Predicción de Salarios con RandomForest
 Este proyecto tiene como objetivo predecir los salarios utilizando un modelo de RandomForestRegressor basado en un conjunto de datos que incluye información sobre educación, experiencia, ubicación, título del trabajo, edad y género.
 
